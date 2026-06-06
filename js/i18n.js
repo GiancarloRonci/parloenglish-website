@@ -128,7 +128,7 @@ const T = {
     'hero.btn.secondary': 'Discover features',
     'hero.coming-soon': 'Coming soon on Google Play',
     'hero.img.alt': 'ParloEnglish screenshot — main screen',
-    'hero.img.src': 'images/screenshot1_en.jpg',
+    'hero.img.src': 'images/screenshot1_en.jpeg',
 
     'features.title': 'Everything you need to learn',
     'features.sub': 'Designed for those who want to study consistently, without wasting time.',
