@@ -6,6 +6,7 @@ const T = {
     'support.title': 'Supporto — ParloEnglish',
 
     'nav.features': 'Funzionalità',
+    'nav.pricing': 'Prezzi',
     'nav.download': 'Download',
     'nav.guide': 'Guida',
     'nav.support': 'Supporto',
@@ -37,6 +38,13 @@ const T = {
     'feature.5.p': 'Aggiungi le tue parole e costruisci un dizionario personale da studiare insieme al vocabolario di sistema.',
     'feature.6.h3': 'Statistiche di studio',
     'feature.6.p': 'Visualizza il tempo dedicato allo studio e il numero di carte revisionate oggi, tutto nella schermata principale.',
+
+    'pricing.title': 'Prezzi',
+    'pricing.sub': 'Semplice e trasparente: oggi gratis, e resterà alla portata di tutti anche in futuro.',
+    'pricing.badge': 'Gratis ora',
+    'pricing.h3': "L'app è gratuita",
+    'pricing.p1': 'Scarica ParloEnglish e inizia subito a studiare, senza alcun costo.',
+    'pricing.p2': 'Nei prossimi mesi introdurremo un abbonamento mensile, con un costo molto ridotto.',
 
     'download.h2': 'Pronto a iniziare?',
     'download.p': "ParloEnglish sarà disponibile presto su Google Play Store.<br /><strong>L'app è gratuita.</strong> Scaricala e inizia a studiare senza nessun costo.",
@@ -113,6 +121,7 @@ const T = {
     'support.title': 'Support — ParloEnglish',
 
     'nav.features': 'Features',
+    'nav.pricing': 'Pricing',
     'nav.download': 'Download',
     'nav.guide': 'Guide',
     'nav.support': 'Support',
@@ -144,6 +153,13 @@ const T = {
     'feature.5.p': 'Add your own words and build a personal dictionary to study alongside the system vocabulary.',
     'feature.6.h3': 'Study Statistics',
     'feature.6.p': 'View time spent studying and the number of cards reviewed today, all on the main screen.',
+
+    'pricing.title': 'Pricing',
+    'pricing.sub': 'Simple and transparent: free today, and it will stay affordable for everyone in the future.',
+    'pricing.badge': 'Free for now',
+    'pricing.h3': 'The app is free',
+    'pricing.p1': 'Download ParloEnglish and start studying right away, at no cost.',
+    'pricing.p2': "In the coming months we'll introduce a monthly subscription, at a very reduced cost.",
 
     'download.h2': 'Ready to start?',
     'download.p': 'ParloEnglish will be available soon on Google Play Store.<br /><strong>The app is free.</strong> Download it and start studying at no cost.',
